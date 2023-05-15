@@ -328,5 +328,3 @@ const BLOG = {
 }
 
 module.exports = BLOG
-
-C笔记
